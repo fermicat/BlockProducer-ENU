@@ -1,5 +1,5 @@
 #!/bin/bash
-DATADIR="/home/CI/ENU/enubi"
+DATADIR="<bp path>"
 
 if [ -f $DATADIR"/eosd.pid" ]; then
 pid=`cat $DATADIR"/eosd.pid"`
