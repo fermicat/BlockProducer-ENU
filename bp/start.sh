@@ -1,6 +1,6 @@
 #!/bin/bash
 BINDIR=/usr/local/bin
-DATADIR=/home/CI/ENU/enubi
+DATADIR=<bp path>
 
 if [ "$1" = "bootstrap" ]
 then
