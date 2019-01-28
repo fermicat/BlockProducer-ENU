@@ -1,0 +1,43 @@
+{
+    "producer_account_name": "enubifreedom",
+    "producer_public_key":  "ENU6JaLNLPC8oaVSeKSvisi5kyu3KU6Nd5ZujwyodW7zd9M5ByUPY",
+    "org": {
+        "candidate_name": "enubifreedom",
+        "website": "http://enubi.org",
+        "ownership_disclosure": "https://enumivo.com/topic/753-enubifreedom-applies-for-a-block-producer-seat/",
+        "code_of_conduct": "https://enumivo.com/topic/753-enubifreedom-applies-for-a-block-producer-seat/",
+        "email":"admin@enubi.org",
+        "branding":{
+            "logo_256":"http://enubi.org/images/logo.png",
+            "logo_1024":"http://enubi.org/images/logo.png", 
+            "logo_svg":""
+        },
+        "location": {
+            "name": "Shenzhen",
+            "country": "CHINA",
+            "latitude": 22.54,
+            "longitude": 114.06
+        },
+        "social": {
+            "weibo": "https://www.weibo.com/enubi",
+            "twitter": "https://twitter.com/Enubi_Freedom",
+            "github": "https://github.com/enubi",
+            "telegram": "https://t.me/enubi",
+            "steemit": "",            
+            "youtube": "",
+            "facebook": "",
+            "reddit": "",
+            "keybase": ""
+        }
+    },
+    "nodes": [
+        {
+            "location": {
+                "name": "AZ",
+                "country": "the Unite States",
+                "latitude": 39.04,
+                "longitude": -77.49
+            }
+        }
+    ]
+}
